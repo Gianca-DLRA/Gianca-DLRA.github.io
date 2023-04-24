@@ -4,26 +4,35 @@ title: About Me
 permalink: /aboutme/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+# Certificaciones
+ - Escuela Moderna Americana, graduado en 2020
+ - Licenciatura en Ciencia de Datos, Instituto Tecnológico Autónomo de México (ITAM), cursando, inicio en 2021
+ - Certificado en Design Thinking, Stanford University, 2019
+ - Cambridge English: Advanced (CAE), 2020
+ - DELF B1, 2018
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+# Conocimiento en 
+ - Python
+ - SQL
+ - Java
+ - C#
+ - JavaScript
+ - Git y GitHub
+ - HTML 
+ - Jenkins
 
-## Features
+# Intereses
+ - Ciencia de Datos aplicada a los deportes (advanced statistics, game planning, etc.)
+ - Algoritmos de recomendación
+ - Deep learning
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+# Hobbies
+ - Basquetbol, inicio en 2007 
+ - Videojuegos
+ - Leer
+ - Tocar el piano
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+ 
+ 
+
+
